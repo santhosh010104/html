@@ -29,3 +29,5 @@ hyper text mark up language
   10.italoic text <i>
   11. deleted text <del</del>
   12. underline texrt <u></u>
+  13.super tag<sup> </sup>
+  14. sub tag<sub> </sub>
