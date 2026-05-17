@@ -25,3 +25,7 @@ hyper text mark up language
   6. list item tag <li></li>
   7. unorder list tag<ul></ul>
   8. type attribute type=""(round,square)
+  9. mark tag<marks></marks>
+  10.italoic text <i>
+  11. deleted text <del</del>
+  12. underline texrt <u></u>
