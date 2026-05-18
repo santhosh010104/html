@@ -31,3 +31,14 @@ hyper text mark up language
   12. underline texrt <u></u>
   13.super tag<sup> </sup>
   14. sub tag<sub> </sub>
+
+
+  18-05-2026
+  1.form tag <form></form>
+  2.label tag <label></label>
+  3. select tag <select></select>
+  4.input tag<input>
+  5. option tag <option></option>
+  6.attributes types=""(text,numeber, email)
+  7.attributes palce holder=""
+  8. button tag<buuton></button>
